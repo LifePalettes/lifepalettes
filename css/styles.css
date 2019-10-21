@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6
+}
+a {
+  text-decoration: none;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BfD8D7;
+  border-width: 5px;
+  width: 4%;
+}
+h1 {
+  letter-spacing: 3px;
+  color: #800080;
+}
+h3 {
+  color: #66BFBF;
+}
