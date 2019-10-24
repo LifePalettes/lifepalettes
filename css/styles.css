@@ -2,22 +2,27 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Sansita', sans-serif;
+  color: #777799;
 }
 h1 {
   position: relative;
   margin: 30px auto 0 auto;
   font-family: 'Euphoria Script', cursive;
-  font-size: 5.6rem
+  font-size: 562.5%;
+  text
+  color: #66BFBF;
 }
 h2 {
   font-family: 'Lato', sans-serif;
   font-size: 2.3rem;
   margin-bottom: 10px;
+  color: #66BFBF;
 }
 h3 {
   font-family: 'Merriweather', serif;
   font-size: 1.3rem;
   margin: 10px auto 0 auto;
+  color: #b46687;
 }
 div {
   background-color: #FFF5EB;
