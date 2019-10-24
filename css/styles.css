@@ -35,4 +35,5 @@ div {
 .photo {
   font-style: italic;
   font-size: 80%;
+  font-variant: small-caps;
 }
