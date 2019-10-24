@@ -63,3 +63,7 @@ hr {
   font-size: 105%;
   font-variant: small-caps;
 }
+.bottom-para {
+  line-height: 1.4;
+  margin: 5px auto 30px auto;
+}
