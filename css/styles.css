@@ -3,7 +3,7 @@ body {
   text-align: center;
   font-family: 'Sansita', sans-serif;
   color: #6f8d9a;
-  line-height:1.8em;
+  line-height:1.5em;
 }
 h1 {
   position: relative;
@@ -36,15 +36,27 @@ div {
   position:absolute;
   right: 200px;
   top: 50px;
-
 }
 .bottom-cloud {
   position:absolute;
   left: 200px;
   bottom: 300px;
 }
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BfD8D7;
+  border-width: 5px;
+  width: 5%;
+  margin: 20px auto 50px auto;
+}
 .middle-container {
   padding: 0 50px 0 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  line-height: 1.8em;
 }
 .photo {
   font-style: italic;
