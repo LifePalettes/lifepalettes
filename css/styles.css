@@ -1,14 +1,23 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Sansita', sans-serif;
 }
 h1 {
-
   position: relative;
-  margin: 0 auto 0 auto;
+  margin: 30px auto 0 auto;
   font-family: 'Euphoria Script', cursive;
-
+  font-size: 562.5%
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 2.3rem;
+  margin-bottom: 10px;
+}
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.3rem;
+  margin: 10px auto 0 auto;
 }
 div {
   background-color: #FFF5EB;
@@ -20,13 +29,13 @@ div {
 }
 .top-cloud {
   position:absolute;
-  right: 300px;
+  right: 200px;
   top: 50px;
 
 }
 .bottom-cloud {
   position:absolute;
-  left: 300px;
+  left: 200px;
   bottom: 300px;
 }
 .middle-container {
@@ -34,7 +43,6 @@ div {
 }
 .photo {
   font-style: italic;
-  font-size: 110%;
+  font-size: 105%;
   font-variant: small-caps;
-
 }
