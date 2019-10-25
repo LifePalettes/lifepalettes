@@ -132,11 +132,13 @@ hr {
   font-family: 'Lato', san-serif;
   font-size: .6rem;
   color: #FFF5EB;
-  letter-spacing: .18rem;
-  margin: 20px auto 0 auto;
+  letter-spacing: .12rem;
+  margin: 15px auto 0 auto;
 }
 .footer-link {
-  margin: 0 25px 0 25px;
+  margin: 0 21px 0 21px;
   color: #11999E;
   text-decoration: none;
+  font-family: 'Sansita', sans-serif;
+  font-size: .8rem;
 }
