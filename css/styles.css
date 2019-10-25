@@ -135,6 +135,9 @@ hr {
   letter-spacing: .12rem;
   margin: 15px auto 0 auto;
 }
+a:hover {
+  color: #eaf6f6;
+}
 .footer-link {
   margin: 0 21px 0 21px;
   color: #11999E;
