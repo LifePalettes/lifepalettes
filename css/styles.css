@@ -111,9 +111,10 @@ hr {
   -webkit-border-radius: 12;
   -moz-border-radius: 12;
   border-radius: 12px;
-  font-family: Arial;
+  font-family: 'Sansita', sans-serif;
   color: #ffffff;
   font-size: 15px;
+  letter-spacing: .2rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
