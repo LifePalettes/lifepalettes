@@ -66,6 +66,9 @@ hr {
 .middle-container {
   padding: 50px 50px 0 50px;
 }
+.LifePalettes {
+  margin: 13px auto 15px auto;
+}
 .skill-row {
   width: 50%;
   margin: 0 auto;
